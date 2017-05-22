@@ -1,7 +1,7 @@
 package searching;
 
-/* Brute Force Implementation of Element which appears maximum times in an Array */
-/* Time Complexity is O(n*n) */
+/* Brute Force Implementation of Element which appears maximum times in an Array 
+   Time Complexity is O(n*n) */
 public class ElementMaxTimes {
 	public static void main(String[] args){
 		int[] arr = {3,2,1,2,2,3,3,2};
