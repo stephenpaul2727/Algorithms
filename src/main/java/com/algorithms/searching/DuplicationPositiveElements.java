@@ -1,4 +1,4 @@
-package searching;
+package com.algorithms.searching;
 
 import java.lang.Math;
 

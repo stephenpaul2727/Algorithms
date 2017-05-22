@@ -1,4 +1,4 @@
-package searching;
+package com.algorithms.searching;
 
 /* Brute Force Implementation of finding first repeated Element in the array. 
 Time Complexity is O(n*n) */

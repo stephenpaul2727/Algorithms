@@ -1,6 +1,6 @@
-package searching;
+package com.algorithms.searching;
 
-import sorting.QuickSort;
+import com.algorithms.sorting.QuickSort;
 
 /* Implementation of Element which appears maximum times in an Array using Sorting
    Time Complexity is O(n*log(n)) */

@@ -1,4 +1,4 @@
-package searching;
+package com.algorithms.searching;
 
 /* Brute Force Implementation of Element which appears maximum times in an Array 
    Time Complexity is O(n*n) */
